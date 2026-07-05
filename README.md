@@ -156,34 +156,6 @@ machine-learning-pca-lab/
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Bkro1/machine-learning-lab.git
-```
-
-Navigate to the project:
-
-```bash
-cd machine-learning-lab
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
 # Key Results
 
 | Project | Outcome |
